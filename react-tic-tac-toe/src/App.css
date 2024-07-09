@@ -1,4 +1,4 @@
-/* apps.css */
+/* app.css */
 
 body {
   font: 14px "Century Gothic", Futura, sans-serif;
@@ -40,6 +40,10 @@ ol, ul {
 
 .kbd-navigation .square:focus {
   background: #ddd;
+}
+
+.highlight {
+  background: yellow;
 }
 
 .game {
